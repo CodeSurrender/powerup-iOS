@@ -2,6 +2,8 @@
 | :---: | :---: |
 | [master](https://github.com/anitab-org/powerup-iOS/tree/master) | [![Build Status](https://travis-ci.org/anitab-org/powerup-iOS.svg?branch=master)](https://travis-ci.org/anitab-org/powerup-iOS) |
 | [develop](https://github.com/anitab-org/powerup-iOS/tree/develop) | [![Build Status](https://travis-ci.org/anitab-org/powerup-iOS.svg?branch=develop)](https://travis-ci.org/anitab-org/powerup-iOS) |
+//new comment 2
+
 
 # PowerUp - iOS 
 
